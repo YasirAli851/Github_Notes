@@ -166,4 +166,6 @@ Git push:-git push command is used to upload local repository content to a remot
 
 Git pull:-git used is used to fetch and download content from remote repository and immediately update the local repository to match that content.
 
+What is a remote repository?
+Ans:-Remote repository are a big part of the distributed nature of git collaboration.It allows a lot of developers contribute to a project from their own workstation making changes to local copy of the project independently of one another.
 
