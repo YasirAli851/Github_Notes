@@ -1,4 +1,4 @@
-Version control:-By taking the help of version control, we can track the changes made to our code and use the old codebase whenever required, version control allows us to go back to the previous codebase if the correct code is not working properly.
+Version Control:-By taking the help of version control, we can track the changes made to our code and use the old codebase whenever required, version control allows us to go back to the previous codebase if the correct code is not working properly.
 
 Keeping historical copies:-This means, we keep the historical copies of all the codes as we may need that old code again.
 
